@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Aviisaud
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Machince Learning
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
 
 <!---
 Aviisaud/Aviisaud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
